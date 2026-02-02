@@ -6,9 +6,12 @@ Questo repository contiene le specifiche tecniche per le API di popolamento del 
 
 ## Procedura di adesione al servizio
 
-A partire dal 2025, l’attivazione del servizio di **Alimentazione WAAS-SIUSS** è supportata da un **template eService PDND** predisposto dall’INPS, denominato: **`Consultazione Flussi SIUSS - WaaS`**
+A partire dal 2025, l’attivazione del servizio di **Alimentazione WAAS-SIUSS** è supportata da un **template eService PDND** predisposto dall’INPS, denominato: **`Consultazione Flussi SIUSS - WaaS`**.
+
 Il template consente agli Enti di pubblicare l’eService su PDND in modo standardizzato, riducendo la complessità di configurazione e garantendo coerenza con le specifiche del servizio.
+
 Il template è attualmente disponibile sia in **ambiente di collaudo** che in **ambiente di produzione** e costituisce la modalità di adesione di riferimento.
+
 Le istruzioni operative dettagliate per l’utilizzo del template sono disponibili nella documentazione di dettaglio del repository.
 
 ---
