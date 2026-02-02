@@ -1,27 +1,21 @@
 # Guida per i Comuni  
 ## Servizio di Alimentazione SIUSS – Welfare as a Service (WaaS)
 
-Questo documento contiene le indicazioni operative per l’esposizione delle API di popolamento del  
-**SIUSS – Sistema Informativo Unitario dei Servizi Sociali**  
-da parte degli Enti partecipanti al progetto **Welfare as a Service (WaaS)**.
+Questo documento contiene le indicazioni operative per l’esposizione delle API di popolamento del **SIUSS – Sistema Informativo Unitario dei Servizi Sociali** da parte degli Enti partecipanti al progetto **Welfare as a Service (WaaS)**.
 
 ---
 
 ## 1. Contesto
 
-Il servizio di Alimentazione SIUSS consente ai Comuni di trasmettere a INPS i flussi informativi necessari
-all’alimentazione del sistema SIUSS, secondo le specifiche tecniche e di interoperabilità definite.
+Il servizio di Alimentazione SIUSS consente ai Comuni di trasmettere a INPS i flussi informativi necessari all’alimentazione del sistema SIUSS, secondo le specifiche tecniche e di interoperabilità definite.
 
-A partire dal 2025, INPS ha introdotto un **template eService PDND** per standardizzare la pubblicazione
-del servizio di Alimentazione SIUSS da parte degli Enti aderenti.
+A partire dal 2025, INPS ha introdotto un **template eService PDND** per standardizzare la pubblicazione del servizio di Alimentazione SIUSS da parte degli Enti aderenti.
 
-Il template di riferimento è denominato:
-
+Il template di riferimento è denominato: 
 ### **WAAS-SIUSS-Alimentazione**
 *(visualizzato sul Portale PDND come “Consultazione Flussi SIUSS – WaaS”)*
 
-Il template è attualmente disponibile in **ambiente di collaudo** e rappresenta il modello di riferimento
-per le **nuove adesioni**, a partire dalla sua pubblicazione in ambiente di Produzione.
+Il template è attualmente disponibile in **ambiente di collaudo** e in **ambiente di produzione** e rappresenta il modello di riferimento per le **nuove adesioni**, a partire dalla sua pubblicazione.
 
 ---
 
@@ -33,11 +27,9 @@ Sono previste due modalità:
   Devono avvenire tramite il template eService PDND predisposto da INPS.
 
 - **Enti già aderenti**  
-  Gli Enti che hanno già pubblicato autonomamente l’eService prima dell’introduzione del template
-  possono continuare a utilizzare le erogazioni già attive.
+  Gli Enti che hanno già pubblicato autonomamente l’eService prima dell’introduzione del template possono continuare a utilizzare le erogazioni già attive.
 
-Il passaggio al template potrà essere richiesto in occasione di futuri aggiornamenti del servizio
-che introducano modifiche non retrocompatibili.
+Il passaggio al template potrà essere richiesto in occasione di futuri aggiornamenti del servizio che introducano modifiche non retrocompatibili.
 
 ---
 
@@ -45,7 +37,7 @@ che introducano modifiche non retrocompatibili.
 
 Il Comune deve implementare l’API di alimentazione in accordo alle specifiche OpenAPI disponibili nel repository:
 
-👉 https://github.com/INPS-it/WaaS.Comuni/blob/main/002%20-%20OpenAPI/api-comuni.yaml
+- https://github.com/INPS-it/WaaS.Comuni/blob/main/002%20-%20OpenAPI/api-comuni.yaml
 
 ---
 
@@ -53,7 +45,7 @@ Il Comune deve implementare l’API di alimentazione in accordo alle specifiche 
 
 Se non già effettuata, l’adesione alla piattaforma PDND deve essere completata secondo la guida ufficiale PagoPA:
 
-👉 https://docs.pagopa.it/interoperabilita-1/manuale-operativo/guida-alladesione
+- https://docs.pagopa.it/interoperabilita-1/manuale-operativo/guida-alladesione
 
 È necessario verificare che gli indirizzi e-mail istituzionali dell’Ente siano correttamente configurati,
 poiché verranno utilizzati per tutte le comunicazioni formali.
@@ -65,8 +57,7 @@ poiché verranno utilizzati per tutte le comunicazioni formali.
 ### Accesso al template
 
 1. Accedere al **Portale PDND**.
-2. Individuare il template **“Consultazione Flussi SIUSS – WaaS”** nella sezione  
-   **Erogazione → Template e-service** e accedere al relativo dettaglio.
+2. Individuare il template **“Consultazione Flussi SIUSS – WaaS”** nella sezione **Erogazione → Template e-service** e accedere al relativo dettaglio.
 
 ![Figura 1 – Dettaglio del template eService](./media/fig01_template_dettaglio.png)
 
@@ -99,8 +90,7 @@ Il template propone valori predefiniti. L’Ente può:
 - definire soglie personalizzate.
 
 #### Accettazione delle richieste di fruizione
-Poiché la fruizione è consentita al solo ente **INPS**, si sconsiglia
-l’attivazione della modalità di accettazione manuale.
+Poiché la fruizione è consentita al solo ente **INPS**, si sconsiglia l’attivazione della modalità di accettazione manuale.
 
 ![Figura 4 – Configurazione Step 2](./media/fig04_step2_configurazione.png)
 
