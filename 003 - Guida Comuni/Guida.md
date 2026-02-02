@@ -11,9 +11,7 @@ Il servizio di Alimentazione SIUSS consente ai Comuni di trasmettere a INPS i fl
 
 A partire dal 2025, INPS ha introdotto un **template eService PDND** per standardizzare la pubblicazione del servizio di Alimentazione SIUSS da parte degli Enti aderenti.
 
-Il template di riferimento è denominato: 
-### **WAAS-SIUSS-Alimentazione**
-*(visualizzato sul Portale PDND come “Consultazione Flussi SIUSS – WaaS”)*
+Il template di riferimento è denominato: **Consultazione Flussi SIUSS – WaaS**.
 
 Il template è attualmente disponibile in **ambiente di collaudo** e in **ambiente di produzione** e rappresenta il modello di riferimento per le **nuove adesioni**, a partire dalla sua pubblicazione.
 
