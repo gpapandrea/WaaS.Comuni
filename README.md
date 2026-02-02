@@ -12,7 +12,9 @@ Il template consente agli Enti di pubblicare l’eService su PDND in modo standa
 
 Il template è attualmente disponibile sia in **ambiente di collaudo** che in **ambiente di produzione** e costituisce la modalità di adesione di riferimento.
 
-Le istruzioni operative dettagliate per l’utilizzo del template sono disponibili nella documentazione di dettaglio del repository.
+Le istruzioni operative dettagliate per l’adesione al servizio tramite template eService PDND sono disponibili nella
+[Guida per i Comuni – Servizio di Alimentazione SIUSS](003%20-%20Guida%20Comuni/Guida.md).
+
 
 ---
 
