@@ -1,7 +1,7 @@
 # Guida per i Comuni  
-## Servizio di Alimentazione SIUSS – Welfare as a Service (WaaS)
+## Welfare as a Service (WaaS) - Servizio di Alimentazione SIUSS 
 
-Questo documento contiene le indicazioni operative per l’esposizione delle API di popolamento del **SIUSS – Sistema Informativo Unitario dei Servizi Sociali** da parte degli Enti partecipanti al progetto **Welfare as a Service (WaaS)**.
+Questo documento contiene le indicazioni operative per l’esposizione delle API WaaS di popolamento del **SIUSS – Sistema Informativo Unitario dei Servizi Sociali** da parte degli Enti partecipanti al progetto **Welfare as a Service (WaaS)**.
 
 ---
 
