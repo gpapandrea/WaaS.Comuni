@@ -22,7 +22,7 @@ Il template è attualmente disponibile in **ambiente di collaudo** e in **ambien
 Sono previste due modalità:
 
 - **Nuove adesioni**  
-  Devono avvenire tramite il template eService PDND predisposto da INPS.
+  Possono avvenire tramite il template eService PDND predisposto da INPS.
 
 - **Enti già aderenti**  
   Gli Enti che hanno già pubblicato autonomamente l’eService prima dell’introduzione del template possono continuare a utilizzare le erogazioni già attive.
