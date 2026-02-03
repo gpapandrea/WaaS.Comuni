@@ -1,6 +1,6 @@
 # Welfare as a Service per i Comuni – (WaaS per i Comuni)
 
-Questo repository contiene le specifiche tecniche per le API di popolamento del **SIUSS – Sistema Informativo Unitario dei Servizi Sociali** ([Sistema Informativo Unitario dei Servizi Sociali](https://www.inps.it/it/it/dati-e-bilanci/siuss--ex-casellario-dell-assistenza.html)) da parte dei Comuni aderenti al progetto **Welfare as a Service (WaaS)**.
+Questo repository contiene le specifiche tecniche, nell'ambito del progetto **Welfare as a Service**, per le API WaaS di popolamento del **SIUSS – Sistema Informativo Unitario dei Servizi Sociali** ([Sistema Informativo Unitario dei Servizi Sociali](https://www.inps.it/it/it/dati-e-bilanci/siuss--ex-casellario-dell-assistenza.html)) da parte degli enti aderenti al progetto.
 
 ---
 
@@ -13,7 +13,7 @@ Il template consente agli Enti di pubblicare l’eService su PDND in modo standa
 Il template è attualmente disponibile sia in **ambiente di collaudo** che in **ambiente di produzione** e costituisce la modalità di adesione di riferimento.
 
 Le istruzioni operative dettagliate per l’adesione al servizio tramite template eService PDND sono disponibili nella
-[Guida per i Comuni – Servizio di Alimentazione SIUSS](003%20-%20Guida%20Comuni/Guida.md).
+[Guida per i Comuni – WaaS Servizio di Alimentazione SIUSS](003%20-%20Guida%20Comuni/Guida.md).
 
 
 ---
