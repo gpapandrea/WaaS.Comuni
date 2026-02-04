@@ -2,8 +2,6 @@
 
 Questo repository contiene le specifiche tecniche, nell'ambito del progetto **Welfare as a Service**, per le API WaaS di popolamento del **SIUSS – Sistema Informativo Unitario dei Servizi Sociali** ([Sistema Informativo Unitario dei Servizi Sociali](https://www.inps.it/it/it/dati-e-bilanci/siuss--ex-casellario-dell-assistenza.html)) da parte degli enti aderenti al progetto.
 
----
-
 ## Procedura di adesione al servizio
 
 A partire dal 2025, l’attivazione del servizio di **Alimentazione WAAS-SIUSS** è supportata da un **template eService PDND** predisposto dall’INPS, denominato: **`Consultazione Flussi SIUSS - WaaS`**.
@@ -14,9 +12,6 @@ Il template è attualmente disponibile sia in **ambiente di collaudo** che in **
 
 Le istruzioni operative dettagliate per l’adesione al servizio tramite template eService PDND sono disponibili nella
 [Guida per i Comuni – WaaS Servizio di Alimentazione SIUSS](003%20-%20Guida%20Comuni/Guida.md).
-
-
----
 
 ## Passi per l’adesione
 
@@ -35,8 +30,6 @@ Per abilitare il servizio di alimentazione, l’Ente aderente deve:
 
 Gli Enti che hanno già pubblicato autonomamente l’eService prima dell’introduzione del template possono continuare a utilizzare le erogazioni già attive.
 
----
-
 ## Struttura del repository
 
 ### Documentazione tecnica
@@ -44,8 +37,6 @@ Gli Enti che hanno già pubblicato autonomamente l’eService prima dell’intro
 Il repository contiene:
 - gli schemi **`.xsd`** che descrivono i flussi SIUSS;
 - la specifica **OpenAPI** in formato **`.yaml`** per le API esposte dai Comuni su PDND.
-
----
 
 ## Licenze
 
