@@ -28,7 +28,7 @@ Per abilitare il servizio di alimentazione, l’Ente aderente deve:
 6. Dare seguito alle eventuali segnalazioni tecniche inviate da INPS ai contatti dell’Ente;
 7. Accettare la richiesta di fruizione del servizio da parte di INPS sull’ambiente di Produzione.
 
-Gli Enti che hanno già pubblicato autonomamente l’eService prima dell’introduzione del template possono continuare a utilizzare le erogazioni già attive. Per loro comodità potranno sempre consultare la precedente modalità di adesione [Guida per i Comuni – WaaS Servizio di Alimentazione SIUSS (senza template)](003%20-%20Guida%20Comuni/Guida_old.md).
+Gli Enti che hanno già pubblicato autonomamente l’eService prima dell’introduzione del template possono continuare a utilizzare le erogazioni già attive. È sempre possibile consultare la precedente modalità di adesione [Guida per i Comuni – WaaS Servizio di Alimentazione SIUSS (senza template)](003%20-%20Guida%20Comuni/Guida_old.md).
 
 ## Struttura del repository
 
