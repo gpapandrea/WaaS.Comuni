@@ -21,9 +21,7 @@ Sono previste due modalità:
   Possono avvenire tramite il template eService PDND predisposto da INPS.
 
 - **Enti già aderenti**  
-  Gli Enti che hanno già pubblicato autonomamente l’eService prima dell’introduzione del template possono continuare a utilizzare le erogazioni già attive.
-
-Il passaggio al template potrà essere richiesto in occasione di futuri aggiornamenti del servizio che introducano modifiche non retrocompatibili.
+  Gli Enti che hanno già pubblicato autonomamente l’eService prima dell’introduzione del template possono continuare a utilizzare le erogazioni già attive. Il passaggio al template potrà essere richiesto in occasione di eventuali aggiornamenti del servizio che introducano modifiche non retrocompatibili.
 
 ## 3. Implementazione dell’API di alimentazione
 
