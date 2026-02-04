@@ -19,7 +19,7 @@ Per abilitare il servizio di alimentazione, l’Ente aderente deve:
 
 1. Implementare l’API di alimentazione in accordo alle specifiche [OpenAPI del servizio](https://github.com/INPS-it/WaaS.Comuni/blob/main/002%20-%20OpenAPI/api-comuni.yaml);
 2. Aderire alla piattaforma PDND, se non già effettuato, secondo la [guida all’adesione PagoPA](https://docs.pagopa.it/interoperabilita-1/manuale-operativo/guida-alladesione);
-3. Pubblicare l’eService di Alimentazione SIUSS su PDND tramite il **template eService INPS**;
+3. Pubblicare l’eService di Alimentazione SIUSS su PDND tramite il **template eService INPS** secondo la guida [Guida per i Comuni – WaaS Servizio di Alimentazione SIUSS](003%20-%20Guida%20Comuni/Guida.md);
 4. Inviare una richiesta di adesione a **progettowelfareasaservice@inps.it** indicando:
    - nome dell’Ente;
    - codice Belfiore;
